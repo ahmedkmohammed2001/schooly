@@ -1,0 +1,2 @@
+# schooly
+School Management system
